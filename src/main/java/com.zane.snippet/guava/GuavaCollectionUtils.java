@@ -78,6 +78,8 @@ public class GuavaCollectionUtils {
     public static void main(String[] args) {
         GuavaCollectionUtils guavaCollectionUtils = new GuavaCollectionUtils();
 
+        guavaCollectionUtils.createImmutableCollection();
+
         guavaCollectionUtils.joinArray();
 
         guavaCollectionUtils.useGuavaInts();
