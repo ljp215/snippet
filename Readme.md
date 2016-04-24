@@ -5,4 +5,3 @@
 5. Java 8 Lamda Use Guide
 6. Multi Thread
 7. Design Pattern
-8. Scala RDD Snippet 
